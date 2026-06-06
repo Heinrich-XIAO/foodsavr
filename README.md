@@ -12,14 +12,7 @@ Press B and C to cycle up and down through the list of food items.
 Food waste is a huge problem in the world, and a large part of it is the amount of food that is left at the back of the fridge to expire. This device is designed to remind you every time you return to your fridge of forgotten items.
 
 ## BOM
-- https://www.aliexpress.com/item/1005007133350270.html 4.2" E-Ink Screen ($30.45)
-- https://www.aliexpress.com/item/1005008858265927.html D10x3mm Ferrite Fridge Magnet ($11.24)
-- https://www.aliexpress.com/item/1005005617180169.html RP2040 Pico (RP2040 TYPE-C) ($3.07)
-- https://www.aliexpress.com/item/1005009455766218.html Number Pad 4x4 ($2.14)
-- https://www.aliexpress.com/item/1005009903616172.html 4-battery 12000mAh ($39.40)
-- https://www.aliexpress.com/item/1005006943878636.html TP4056 JST Connector Module ($2.62)
-- https://www.aliexpress.com/item/1005007385896399.html 3.7V to 5V Booster ($3.48)
-- https://www.aliexpress.com/item/1005006795400618.html Copper Positive Right-Angle Headers ($4.07)
+Go to BOM.csv for the Bill of Materials
 
 ## Exploded 3D Model
 <img width="839" height="818" alt="Screenshot 2026-06-06 at 11 40 54" src="https://github.com/user-attachments/assets/7c605676-0397-4a29-9125-57ff6d9f36e1" />
