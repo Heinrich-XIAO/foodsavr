@@ -11,3 +11,9 @@
 - https://www.aliexpress.com/item/1005006943878636.html TP4056 JST Connector Module ($2.62)
 - https://www.aliexpress.com/item/1005007385896399.html 3.7V to 5V Booster ($3.48)
 - https://www.aliexpress.com/item/1005006795400618.html Copper Positive Right-Angle Headers ($4.07)
+
+## Exploded 3D Model
+<img width="839" height="818" alt="Screenshot 2026-06-06 at 11 40 54" src="https://github.com/user-attachments/assets/7c605676-0397-4a29-9125-57ff6d9f36e1" />
+
+## Assembled 3D Model
+<img width="905" height="540" alt="Screenshot 2026-06-06 at 11 41 42" src="https://github.com/user-attachments/assets/dd55f1f2-f8a7-4a38-8366-082197c4c82d" />
