@@ -10,4 +10,4 @@
 - https://www.aliexpress.com/item/1005009903616172.html 4-battery 12000mAh ($39.40)
 - https://www.aliexpress.com/item/1005006943878636.html TP4056 JST Connector Module ($2.62)
 - https://www.aliexpress.com/item/1005007385896399.html 3.7V to 5V Booster ($3.48)
-- https://www.aliexpress.com/item/1005006795400618.html Copper Reverse Right-Angle Headers ($4.07)
+- https://www.aliexpress.com/item/1005006795400618.html Copper Positive Right-Angle Headers ($4.07)
