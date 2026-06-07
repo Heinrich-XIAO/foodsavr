@@ -9,7 +9,7 @@ Show your food item to the camera and press the A button. Then, enter the expiry
 Press B and C to cycle up and down through the list of food items.
 
 ## Motivation
-Food waste is a huge problem in the world, and a large part of it is the amount of food that is left at the back of the fridge to expire. This device is designed to remind you every time you return to your fridge of forgotten items.
+I designed this because I got tired of leaving food at the back of my fridge to rot. Especially, since I'd save my favourite foods for later, and yet forget about them until expiry. This project reminds you before they expire so that you never leave food in the back of your fridge for too long.
 
 ## BOM
 Go to BOM.csv for the Bill of Materials
