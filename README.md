@@ -27,3 +27,5 @@ Go to BOM.csv for the Bill of Materials
 ## Schematic
 <img width="1031" height="431" alt="Screenshot 2026-06-06 at 12 12 31" src="https://github.com/user-attachments/assets/5f7a58aa-4e43-4a2b-b0f1-37d71631165a" />
 
+## Zine Page
+![alt text](image.png)
