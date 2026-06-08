@@ -158,25 +158,7 @@ void camera_init() {
   }
 }
 
-void setup() {
-  WRITE_PERI_REG(RTC_CNTL_BROWN_OUT_REG, 0);  // Disable brownout detector
-
-  Serial.begin(115200);
-  Serial.println("ESP32-CAM Photo Capture Starting...");
-
-  Serial1.begin(115200);
-  Serial1.setTX(0);
-  Serial1.setRX(16);
-
-  eeprom_init();
-  sd_card_init();
-
-  camera_config();
-  camera_init();
-
-  // Wait a moment for camera to stabilize
-  delay(1000);
-
+void shoot_and_save() {
   // Take Picture with Camera
   Serial.println("Taking picture...");
   camera_fb_t *fb = NULL;
@@ -241,6 +223,28 @@ void setup() {
   
   // Return the frame buffer immediately after use
   esp_camera_fb_return(fb);
+}
+
+void setup() {
+  WRITE_PERI_REG(RTC_CNTL_BROWN_OUT_REG, 0);  // Disable brownout detector
+
+  Serial.begin(115200);
+  Serial.println("ESP32-CAM Photo Capture Starting...");
+
+  Serial1.begin(115200);
+  Serial1.setTX(0);
+  Serial1.setRX(16);
+
+  eeprom_init();
+  sd_card_init();
+
+  camera_config();
+  camera_init();
+
+  // Wait a moment for camera to stabilize
+  delay(1000);
+
+  shoot_and_save();
   
   // Brief delay before sleep
   delay(500);
