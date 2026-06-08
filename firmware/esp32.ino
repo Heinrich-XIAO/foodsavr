@@ -75,19 +75,7 @@ void sd_card_init() {
   }
 }
 
-void setup() {
-  WRITE_PERI_REG(RTC_CNTL_BROWN_OUT_REG, 0);  // Disable brownout detector
-
-  Serial.begin(115200);
-  Serial.println("ESP32-CAM Photo Capture Starting...");
-
-  Serial1.begin(115200);
-  Serial1.setTX(0);
-  Serial1.setRX(16);
-
-  eeprom_init();
-  sd_card_init();
-
+void camera_config() {
   // Camera configuration - REDUCED settings to prevent stack overflow
   camera_config_t config;
   config.ledc_channel = LEDC_CHANNEL_0;
@@ -126,7 +114,9 @@ void setup() {
   
   // Additional memory-saving configurations
   config.grab_mode = CAMERA_GRAB_LATEST; // Changed from WHEN_EMPTY to LATEST
+}
 
+void camera_init() {
   // Initialize Camera
   esp_err_t err = esp_camera_init(&config);
   if (err != ESP_OK) {
@@ -166,6 +156,23 @@ void setup() {
     s->set_dcw(s, 1);            // 0 = disable , 1 = enable
     s->set_colorbar(s, 0);       // 0 = disable , 1 = enable
   }
+}
+
+void setup() {
+  WRITE_PERI_REG(RTC_CNTL_BROWN_OUT_REG, 0);  // Disable brownout detector
+
+  Serial.begin(115200);
+  Serial.println("ESP32-CAM Photo Capture Starting...");
+
+  Serial1.begin(115200);
+  Serial1.setTX(0);
+  Serial1.setRX(16);
+
+  eeprom_init();
+  sd_card_init();
+
+  camera_config();
+  camera_init();
 
   // Wait a moment for camera to stabilize
   delay(1000);
