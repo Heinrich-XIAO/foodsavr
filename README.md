@@ -10,6 +10,14 @@ Press B and C to cycle up and down through the list of food items.
 ## Technical Details
 foodsavr uses two microcontrollers. The ESP-32 CAM is used for the camera, but since it doesn't have enough pins, another board is necessary. The other dev board is an off-brand pico-like RP2040 board. For the display, it uses an E-Ink display from WeAct Studio. The matrix keypad is your standard membrane keypad that is in every single electronics kit. It uses a set of lipos for power with USB-C charging. The charger board is TP4056-based.
 
+## Build Guide
+1. Insert the battery's JST connector into the charging board.
+2. Insert the keypad's cable into its 1x8 header, with the keypad being in the slot on the top case.
+3. Put the E-Ink display on the 2x4 header on the PCB.
+4. Plop the top case on the display so that the screw holes of the display line up.
+5. Use the M3 nut and bolt to secure the display.
+6. Finally, fasten the bottom case so that the PCB rests in the tray.
+
 ## Motivation
 I designed this because I got tired of leaving food at the back of my fridge to rot. Especially, since I'd save my favourite foods for later, and yet forget about them until expiry. This project reminds you before they expire so that you never leave food in the back of your fridge for too long.
 
