@@ -29,7 +29,7 @@ Go to BOM.csv for the Bill of Materials
 <img width="839" height="818" alt="Screenshot 2026-06-06 at 11 40 54" src="https://github.com/user-attachments/assets/7c605676-0397-4a29-9125-57ff6d9f36e1" />
 
 ## Assembled 3D Model
-<img width="905" height="540" alt="Screenshot 2026-06-06 at 11 41 42" src="https://github.com/user-attachments/assets/dd55f1f2-f8a7-4a38-8366-082197c4c82d" />
+<img width="1537" height="775" alt="Screenshot 2026-06-12 at 19 54 57" src="https://github.com/user-attachments/assets/acb79698-d6c5-45ed-81d3-88734ded69b3" />
 
 https://cad.onshape.com/documents/8ee8f266d123a24e5a0ce496/w/151140d60200875ea61c9eed/e/18a74606bdcc9369348646ee?renderMode=0&uiState=6a249579d641e38a22ea1bbf
 
