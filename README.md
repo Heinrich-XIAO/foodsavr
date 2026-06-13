@@ -3,7 +3,7 @@
 
 ## Usage
 To add a food item:
-Show your food item to the camera and press the A button. Then, enter the expiry date of the item with the number pad. Then, confirm by pressing the A button again. Press D to cancel.
+Show your food item to the camera and press the A button. Then, enter the expiry date of the item with the number pad. Finally, confirm by pressing the A button again. Press D to cancel.
 
 Press B and C to cycle up and down through the list of food items.
 
