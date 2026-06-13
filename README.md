@@ -26,7 +26,7 @@ I designed this because I got tired of leaving food at the back of my fridge to 
 Go to BOM.csv for the Bill of Materials
 
 ## Exploded 3D Model
-<img width="839" height="818" alt="Screenshot 2026-06-06 at 11 40 54" src="https://github.com/user-attachments/assets/7c605676-0397-4a29-9125-57ff6d9f36e1" />
+<img width="894" height="933" alt="Screenshot 2026-06-12 at 20 03 19" src="https://github.com/user-attachments/assets/4a6325a6-25e4-485b-a565-14f44fc3bf77" />
 
 ## Assembled 3D Model
 <img width="1537" height="775" alt="Screenshot 2026-06-12 at 19 54 57" src="https://github.com/user-attachments/assets/acb79698-d6c5-45ed-81d3-88734ded69b3" />
