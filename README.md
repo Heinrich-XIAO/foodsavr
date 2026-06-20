@@ -25,6 +25,24 @@ foodsavr uses two microcontrollers. The ESP-32 CAM is used for the camera, but s
 I designed this because I got tired of leaving food at the back of my fridge to rot. Especially, since I'd save my favourite foods for later, and yet forget about them until expiry. This project reminds you before they expire so that you never leave food in the back of your fridge for too long.
 
 ## BOM
+|Name                                                |Links                                                |Price (CAD)|
+|----------------------------------------------------|-----------------------------------------------------|-----------|
+|PCB                                                 |https://jlcpcb.com/                                  |$6.66      |
+|E-Paper Screen                                      |https://www.aliexpress.com/item/1005007133350270.html|$30.45     |
+|Ferrite Magnets (10x3mm)                            |https://www.aliexpress.com/item/1005008858265927.html|$11.24     |
+|Fake Pico                                           |https://www.aliexpress.com/item/1005005617180169.html|$3.07      |
+|Number Pad                                          |https://www.aliexpress.com/item/1005009455766218.html|$2.14      |
+|4x 18650 12000mAh                                   |https://www.aliexpress.com/item/1005009903616172.html|$39.40     |
+|TP4056 JST USB-C Module                             |https://www.aliexpress.com/item/1005006943878636.html|$2.62      |
+|Voltage Booster                                     |https://www.aliexpress.com/item/1005007385896399.html|$3.48      |
+|Right-Angle Headers                                 |https://www.aliexpress.com/item/1005006795400618.html|$4.07      |
+|ESP32 CAM w/ Flasher                                |https://www.aliexpress.com/item/1005006137530316.html|$13.52     |
+|M3x10mm with nut                                    |https://www.aliexpress.com/item/32799844538.html     |$3.31      |
+|Heatset Inserts (M3 5mm OD w/ 10mm length)          |https://www.aliexpress.com/item/1005003582355741.html|$3.93      |
+|Subtotal                                            |N/A                                                  |$123.89    |
+|Total (After Aliexpress Discounts subject to change)|N/A                                                  |CAD$90.58  |
+|USD Total                                           |N/A                                                  |USD$64.76  |
+
 Go to BOM.csv for the Bill of Materials
 
 ## Assembled 3D Model
