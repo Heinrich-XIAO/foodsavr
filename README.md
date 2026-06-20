@@ -43,8 +43,6 @@ I designed this because I got tired of leaving food at the back of my fridge to 
 |Total (After Aliexpress Discounts subject to change)|N/A                                                  |CAD$90.58  |
 |USD Total                                           |N/A                                                  |USD$64.76  |
 
-Go to BOM.csv for the Bill of Materials
-
 ## Assembled 3D Model
 <img width="1537" height="775" alt="Screenshot 2026-06-12 at 19 54 57" src="https://github.com/user-attachments/assets/acb79698-d6c5-45ed-81d3-88734ded69b3" />
 
