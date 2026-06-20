@@ -18,16 +18,14 @@ foodsavr uses two microcontrollers. The ESP-32 CAM is used for the camera, but s
 5. Use the M3 nuts and bolts to secure the display.
 6. For the two corners on the right, insert the M3 heatset inserts into the holes.
 7. Add a thin layer of cyanoacryalte glue around the bottom of the magnet holes. Then, insert the magnets.
-8. Finally, fasten the bottom case so that the PCB rests in the tray with the M3.
+8. Send a USB-C cable through the hole in the bottom case and plug it into the off brand USB-C Pico. Send another USB-C cable through the same hole and plug it into the battery charging board (The hole is large enough to accommodate two cables.)
+9. Finally, fasten the bottom case so that the PCB rests in the tray with the M3.
 
 ## Motivation
 I designed this because I got tired of leaving food at the back of my fridge to rot. Especially, since I'd save my favourite foods for later, and yet forget about them until expiry. This project reminds you before they expire so that you never leave food in the back of your fridge for too long.
 
 ## BOM
 Go to BOM.csv for the Bill of Materials
-
-## Exploded 3D Model
-<img width="894" height="933" alt="Screenshot 2026-06-12 at 20 03 19" src="https://github.com/user-attachments/assets/4a6325a6-25e4-485b-a565-14f44fc3bf77" />
 
 ## Assembled 3D Model
 <img width="1537" height="775" alt="Screenshot 2026-06-12 at 19 54 57" src="https://github.com/user-attachments/assets/acb79698-d6c5-45ed-81d3-88734ded69b3" />
