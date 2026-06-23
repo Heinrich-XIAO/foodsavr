@@ -40,9 +40,9 @@ I designed this because I got tired of leaving food at the back of my fridge to 
 |M3x10mm with nut                                    |https://www.aliexpress.com/item/32799844538.html     |$3.31      |
 |Heatset Inserts (M3 5mm OD w/ 10mm length)          |https://www.aliexpress.com/item/1005003582355741.html|$3.93      |
 |Right angled USBC cable|https://ja.aliexpress.com/item/1005009168667192.html|$6.48|
-|Subtotal                                            |N/A                                                  |$123.89    |
-|Total (After Aliexpress Discounts subject to change)|N/A                                                  |CAD$90.58  |
-|USD Total                                           |N/A                                                  |USD$64.76  |
+|Subtotal                                            |N/A                                                  |$130.37    |
+|Total (After Aliexpress Discounts subject to change)|N/A                                                  |CAD$97.06  |
+|USD Total                                           |N/A                                                  |USD$68.54  |
 
 ## Assembled 3D Model
 <img width="1537" height="775" alt="Screenshot 2026-06-12 at 19 54 57" src="https://github.com/user-attachments/assets/acb79698-d6c5-45ed-81d3-88734ded69b3" />
