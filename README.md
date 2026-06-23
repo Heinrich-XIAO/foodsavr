@@ -18,7 +18,7 @@ foodsavr uses two microcontrollers. The ESP-32 CAM is used for the camera, but s
 5. Use the M3 nuts and bolts to secure the display.
 6. For the two corners on the right, insert the M3 heatset inserts into the holes.
 7. Add a thin layer of cyanoacryalte glue around the bottom of the magnet holes. Then, insert the magnets.
-8. Send a USB-C cable through the hole in the bottom case and plug it into the off brand USB-C Pico. Send another USB-C cable through the same hole and plug it into the battery charging board (The hole is large enough to accommodate two cables.)
+8. Send a right angled USB-C cable through the hole in the bottom case and plug it into the off brand USB-C Pico. Send a normal USB-C cable through the same hole and plug it into the battery charging board (The hole is large enough to accommodate two cables.)
 9. Finally, fasten the bottom case so that the PCB rests in the tray with the M3.
 
 ## Motivation
@@ -39,6 +39,7 @@ I designed this because I got tired of leaving food at the back of my fridge to 
 |ESP32 CAM w/ Flasher                                |https://www.aliexpress.com/item/1005006137530316.html|$13.52     |
 |M3x10mm with nut                                    |https://www.aliexpress.com/item/32799844538.html     |$3.31      |
 |Heatset Inserts (M3 5mm OD w/ 10mm length)          |https://www.aliexpress.com/item/1005003582355741.html|$3.93      |
+|Right angled USBC cable|https://ja.aliexpress.com/item/1005009168667192.html|$6.48|
 |Subtotal                                            |N/A                                                  |$123.89    |
 |Total (After Aliexpress Discounts subject to change)|N/A                                                  |CAD$90.58  |
 |USD Total                                           |N/A                                                  |USD$64.76  |
